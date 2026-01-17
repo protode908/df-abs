@@ -1,0 +1,39 @@
+{
+  "protocol": "dfabs-acl-lite",
+  "ontology": "DFABS-Ontology",
+  "performative": "INFORM",
+  "sender": "Surveyor",
+  "receiver": "HasherPacker",
+  "type": "DiscoveryReport",
+  "conversation_id": "CASE-DEMO-001",
+  "timestamp": "2026-01-17T19:13:56+00:00",
+  "content": {
+    "files": [
+      {
+        "path": "/Users/arielmella/Desktop/! University AI MSC/! Third Module - Inteligent Agents/! Individual presentation/!code.v01-v03.old/EDIT SATURDAY/EDIT SATURDAY AFT.2/agents/demo_case_data/other/note1.txt",
+        "root": "/Users/arielmella/Desktop/! University AI MSC/! Third Module - Inteligent Agents/! Individual presentation/!code.v01-v03.old/EDIT SATURDAY/EDIT SATURDAY AFT.2/agents/demo_case_data",
+        "root_name": "demo_case_data",
+        "rel_path": "other/note1.txt",
+        "ext": ".txt",
+        "size": 28
+      },
+      {
+        "path": "/Users/arielmella/Desktop/! University AI MSC/! Third Module - Inteligent Agents/! Individual presentation/!code.v01-v03.old/EDIT SATURDAY/EDIT SATURDAY AFT.2/agents/demo_case_data/docs/note1.txt",
+        "root": "/Users/arielmella/Desktop/! University AI MSC/! Third Module - Inteligent Agents/! Individual presentation/!code.v01-v03.old/EDIT SATURDAY/EDIT SATURDAY AFT.2/agents/demo_case_data",
+        "root_name": "demo_case_data",
+        "rel_path": "docs/note1.txt",
+        "ext": ".txt",
+        "size": 21
+      },
+      {
+        "path": "/Users/arielmella/Desktop/! University AI MSC/! Third Module - Inteligent Agents/! Individual presentation/!code.v01-v03.old/EDIT SATURDAY/EDIT SATURDAY AFT.2/agents/demo_case_data/docs/note2.txt",
+        "root": "/Users/arielmella/Desktop/! University AI MSC/! Third Module - Inteligent Agents/! Individual presentation/!code.v01-v03.old/EDIT SATURDAY/EDIT SATURDAY AFT.2/agents/demo_case_data",
+        "root_name": "demo_case_data",
+        "rel_path": "docs/note2.txt",
+        "ext": ".txt",
+        "size": 39
+      }
+    ],
+    "deviations": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "protocol": "dfabs-acl-lite",
+  "ontology": "DFABS-Ontology",
+  "performative": "INFORM",
+  "sender": "Scribe",
+  "receiver": "Coordinator",
+  "type": "ReportGenerated",
+  "conversation_id": "CASE-DEMO-001",
+  "timestamp": "2026-01-17T19:13:56+00:00",
+  "content": {
+    "report_csv": "/Users/arielmella/Desktop/! University AI MSC/! Third Module - Inteligent Agents/! Individual presentation/!code.v01-v03.old/EDIT SATURDAY/EDIT SATURDAY AFT.2/agents/output/report_CASE-DEMO-001.csv",
+    "rows": 3
+  }
+}

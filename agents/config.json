@@ -1,0 +1,15 @@
+{
+  "case_id": "CASE-DEMO-001",
+  "allowed_roots": [
+    "demo_case_data"
+  ],
+  "allowed_extensions": [
+    ".txt",
+    ".pdf",
+    ".doc"
+  ],
+  "max_file_size_bytes": 9000000,
+  "max_files": 200,
+  "bus_dir": "bus",
+  "output_dir": "output"
+}

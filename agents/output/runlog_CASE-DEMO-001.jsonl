@@ -1,0 +1,10 @@
+{"ts": "2026-01-17T19:13:37+00:00", "agent": "Coordinator", "action": "TASK_START", "details": {"case_id": "CASE-DEMO-001"}}
+{"ts": "2026-01-17T19:13:37+00:00", "agent": "Surveyor", "action": "DISCOVERY", "details": {"files": 0, "deviations": 1}}
+{"ts": "2026-01-17T19:13:37+00:00", "agent": "HasherPacker", "action": "HASH_AND_ZIP", "details": {"files": 0, "zip": "evidence_CASE-DEMO-001.zip"}}
+{"ts": "2026-01-17T19:13:37+00:00", "agent": "Scribe", "action": "REPORT", "details": {"rows": 0, "report": "report_CASE-DEMO-001.csv"}}
+{"ts": "2026-01-17T19:13:37+00:00", "agent": "Coordinator", "action": "TASK_END", "details": {"case_id": "CASE-DEMO-001"}}
+{"ts": "2026-01-17T19:13:56+00:00", "agent": "Coordinator", "action": "TASK_START", "details": {"case_id": "CASE-DEMO-001"}}
+{"ts": "2026-01-17T19:13:56+00:00", "agent": "Surveyor", "action": "DISCOVERY", "details": {"files": 3, "deviations": 0}}
+{"ts": "2026-01-17T19:13:56+00:00", "agent": "HasherPacker", "action": "HASH_AND_ZIP", "details": {"files": 3, "zip": "evidence_CASE-DEMO-001.zip"}}
+{"ts": "2026-01-17T19:13:56+00:00", "agent": "Scribe", "action": "REPORT", "details": {"rows": 3, "report": "report_CASE-DEMO-001.csv"}}
+{"ts": "2026-01-17T19:13:56+00:00", "agent": "Coordinator", "action": "TASK_END", "details": {"case_id": "CASE-DEMO-001"}}

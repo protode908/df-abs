@@ -1,0 +1,22 @@
+{
+  "protocol": "dfabs-acl-lite",
+  "ontology": "DFABS-Ontology",
+  "performative": "REQUEST",
+  "sender": "Coordinator",
+  "receiver": "Surveyor",
+  "type": "TaskRequest",
+  "conversation_id": "CASE-DEMO-001",
+  "timestamp": "2026-01-17T19:13:56+00:00",
+  "content": {
+    "allowed_roots": [
+      "demo_case_data"
+    ],
+    "allowed_extensions": [
+      ".txt",
+      ".pdf",
+      ".doc"
+    ],
+    "max_file_size_bytes": 9000000,
+    "max_files": 200
+  }
+}
